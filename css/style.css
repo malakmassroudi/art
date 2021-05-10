@@ -7,6 +7,9 @@ body{
 
 img{
 	height: 270px;
+	border: none;
+    	display: block;
+    	margin: 0 auto;
 }
 .page{
 	background:url(../images/bg-header.jpg) no-repeat center top;
