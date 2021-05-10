@@ -3,6 +3,7 @@
 body{
 	margin:0;
 	background:url(../images/bg-body.jpg);
+	text-align: center;
 }
 
 img{
@@ -359,4 +360,18 @@ img{
 .footer div.connect a{
 	float:left;
 	outline:none;
+}
+
+.footer p{
+	text-align:center;
+}
+
+.blog li img{
+	max-width: 100%;
+object-fit: contain;
+margin: auto;
+display: inline-block;
+vertical-align: middle;
+   object-position: center;
+	 margin: auto;
 }
